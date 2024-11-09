@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="products.xsl"?>
+
+<products>
+    <!-- In-Plane Equipment: 101-XX -->
+    <product code="101-01">
+        <name>Pilot Headset</name>
+        <stockStatus>Pre-order</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>199.99</unitPrice>
+        <ratings>4.8</ratings>
+    </product>
+    <product code="101-02">
+        <name>Garmin GPS Receiver</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>899.99</unitPrice>
+        <ratings>4.9</ratings>
+    </product>
+    <product code="101-03">
+        <name>Aircraft Fuel Tester</name>
+        <stockStatus>Out of Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>1999.99</unitPrice>
+        <ratings>4.5</ratings>
+    </product>
+    <product code="101-04">
+        <name>Portable Oxygen Tank</name>
+        <stockStatus>Out of Stock</stockStatus>
+        <expirationDate>2026-08-15</expirationDate>
+        <unitPrice>129.99</unitPrice>
+        <ratings>4.4</ratings>
+    </product>
+    <product code="101-05">
+        <name>Kneeboard</name>
+        <stockStatus>Pre-order</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>29.99</unitPrice>
+        <ratings>4.5</ratings>
+    </product>
+    <product code="101-06">
+        <name>Electronic Flight Bag (EFB)</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>249.99</unitPrice>
+        <ratings>4.6</ratings>
+    </product>
+    <product code="101-07">
+        <name>Emergency Location Transmitter</name>
+        <stockStatus>Out of Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>799.99</unitPrice>
+        <ratings>4.9</ratings>
+    </product>
+
+<!-- Flight Simulator / Other Products: 201-XX -->
+    <product code="201-01">
+        <name>Flight Simulator Yoke</name>
+        <stockStatus>Pre-order</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>249.99</unitPrice>
+        <ratings>4.6</ratings>
+    </product>
+    <product code="201-02">
+        <name>Logbook</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>9.99</unitPrice>
+        <ratings>4.7</ratings>
+    </product>
+
+    <!-- Airport Equipment: 301-XX -->
+    <product code="301-01">
+        <name>Navigation Chart</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate>2025-12-31</expirationDate>
+        <unitPrice>349.99</unitPrice>
+        <ratings>4.2</ratings>
+    </product>
+    <product code="301-02">
+        <name>Aircraft Tie-Down Kit</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>239.99</unitPrice>
+        <ratings>4.3</ratings>
+    </product>
+    <product code="301-03">
+        <name>Air Traffic Control Scanner</name>
+        <stockStatus>Pre-order</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>3199.99</unitPrice>
+        <ratings>4.6</ratings>
+    </product>
+    <product code="301-04">
+        <name>Aircraft Maintenance Toolkit</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>999.99</unitPrice>
+        <ratings>4.8</ratings>
+    </product>
+    <product code="301-05">
+        <name>Portable Weather Station</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>499.99</unitPrice>
+        <ratings>4.7</ratings>
+    </product>
+    <product code="301-06">
+        <name>Flight Attendant Manual</name>
+        <stockStatus>In Stock</stockStatus>
+        <expirationDate></expirationDate>
+        <unitPrice>129.99</unitPrice>
+        <ratings>4.5</ratings>
+    </product>
+</products>

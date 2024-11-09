@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <!-- Root element for the product list -->
+    <xs:element name="products">
+        <xs:complexType>
+            <xs:sequence>
+                <!-- Product element, can repeat for multiple products -->
+                <xs:element name="product" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="name" type="xs:string"/>
+                            <xs:element name="stockStatus" type="xs:string"/>
+                            <xs:element name="unitPrice" type="xs:decimal"/>
+                        </xs:sequence>
+                        <!-- Product code attribute is required -->
+                        <xs:attribute name="code" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

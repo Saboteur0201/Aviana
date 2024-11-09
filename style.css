@@ -1,0 +1,160 @@
+/**/
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/*Background image just for about page*/
+.about-page {
+    background-image: url('/images/logo.png');
+    background-size: cover;
+    background-position: center 36%;  
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.about-page .content {
+    padding: 20px;
+    margin-top: 100px;
+}
+ 
+h2 {
+    margin-left: 25px;
+}
+
+p {
+    margin-bottom: 0%;
+}
+
+#main-paragraph,
+#sub-paragraph {
+    margin-left: 25px;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav h1 {
+    margin: 0;
+    font-family: 'Cursive', sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Style for the search bar */
+.search-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.search-container input {
+    padding: 10px;
+    width: 200px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style for product table */
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+/* Product cards style */
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 30px;
+    padding: 20px;
+}
+
+.product-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    height: 330px;
+}
+
+.product-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.product-card h3 {
+    margin-top: 0;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.product-card .details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    width: 100%;
+}
+
+.product-card .details-container p {
+    margin: 0;
+    color: #555;
+}
+
+.product-card .price {
+    color: #333;
+}
+
+.product-card .status {
+    color: green; 
+}
+
+.product-card .rating {
+    color: #FFBF4F;
+}
+
+.product-card:hover {
+    transform: scale(1.05);
+}
+

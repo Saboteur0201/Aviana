@@ -1,0 +1,31 @@
+default image - Photo by Vie Studio: https://www.pexels.com/photo/word-error-on-white-surface-4439425/
+
+(pilot headset) product 1 - Photo by Luis Quintero: https://www.pexels.com/photo/headphones-hanging-from-the-ceiling-of-a-cabin-15778615/ 
+
+(gps receiver) product 2 - Photo by victor dubugras: https://www.pexels.com/photo/flight-check-27658226/
+
+(fuel tester) product 3 - Photo by Ana  Dolidze : https://www.pexels.com/photo/outdoor-fuel-station-with-vintage-sepia-tone-28608391/
+
+(oxygen tank) product 4 - Photo by Marina Zvada: https://www.pexels.com/photo/close-up-of-industrial-oxygen-tanks-with-straps-28495267/
+
+(kneeboard) product 5 - Photo by TRAVEL BLOG: https://www.pexels.com/photo/man-sitting-inside-a-cockpit-of-an-airplane-7058348/
+
+(flight comp) product 6 - Photo by Leah Newhouse: https://www.pexels.com/photo/pilot-at-cockpit-9293263/
+
+(location trans) product 7 - Photo by Mikhail Nilov: https://www.pexels.com/photo/person-pushing-a-control-button-7662853/
+
+(flight yoke) product 8 - Photo by Leah Newhouse: https://www.pexels.com/photo/interior-of-pilot-cabin-9293262/
+
+(logbook) product 9 - Photo by Connor McManus: https://www.pexels.com/photo/close-up-of-a-man-writing-in-a-book-17616803/
+
+(navchart) product 10 - Photo by Andrew Neel: https://www.pexels.com/photo/assorted-map-pieces-2859169/
+ 
+(tie down) product 11 - Photo by Joël Super: https://www.pexels.com/photo/gray-air-vehicle-with-yellow-coated-cable-around-docking-wheels-2315265/
+
+(atc scanner) product 12 - Photo by Igor Mashkov: https://www.pexels.com/photo/radio-telescope-under-bright-starry-sky-6325003/
+
+(maint took) product 13 - Photo by Pixabay: https://www.pexels.com/photo/set-of-tool-wrench-162553/
+
+(port wx stn) product 14 - Photo by Impact Dog Crates: https://www.pexels.com/photo/impact-dog-crates-siberian-in-snow-with-handsome-male-owner-28380844/
+
+(fa manual) product 15 - Photo by Photo By: Kaboompics.com: https://www.pexels.com/photo/close-up-of-a-person-putting-a-sticky-note-on-a-textbook-page-6958523/
