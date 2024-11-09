@@ -4,7 +4,11 @@
         <html>
             <head>
                 <title>Product List</title>
-                <link rel="icon" type="image/x-icon" href="/images/logo.png">
+                <xsl:element name="link">
+                    <xsl:attribute name="rel">icon</xsl:attribute>
+                    <xsl:attribute name="type">image/x-icon</xsl:attribute>
+                    <xsl:attribute name="href">/images/logo.png</xsl:attribute>
+                </xsl:element>
                 <link rel="stylesheet" type="text/css" href="style.css"/>
             </head>
             <body>
