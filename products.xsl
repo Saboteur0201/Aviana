@@ -4,6 +4,7 @@
         <html>
             <head>
                 <title>Product List</title>
+                <link rel="icon" type="image/x-icon" href="/images/logo.png">
                 <link rel="stylesheet" type="text/css" href="style.css"/>
             </head>
             <body>
